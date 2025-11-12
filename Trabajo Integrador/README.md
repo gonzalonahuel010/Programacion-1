@@ -25,7 +25,6 @@ Aplicación de consola en Python para **gestionar un dataset de países**: agreg
 
 ## 📦 Requisitos
 
-- Python **3.8+**
 - Sin dependencias externas (solo `csv`, `os`, `re` de la librería estándar).
 
 ---
@@ -156,8 +155,7 @@ Ingrese el nombre EXACTO del país a eliminar: Japón
 
 - Unificar separador (`;`) en lectura y guardado.
 - Lista cerrada de continentes (América, Europa, Asia, África, Oceanía, Antártida).
-- Tests unitarios (pytest) de validaciones y flujo.
-- Exportación/Importación en JSON.
+- Generacion de archivos de reportes.
 - Paginación en la vista de resultados largos.
 
 
