@@ -1,0 +1,196 @@
+﻿nombre;poblacion;superficie;continente
+Australia;26600000;7692024;Oceania
+Fiyi;936000;18274;Oceania
+Kiribati;133500;811;Oceania
+Islas Marshall;41900;181;Oceania
+Micronesia;115000;702;Oceania
+Nauru;12700;21;Oceania
+Nueva Zelanda;5200000;268021;Oceania
+Palaos;18000;459;Oceania
+Papua Nueva Guinea;11700000;462840;Oceania
+Samoa;224000;2842;Oceania
+Islas Salomon;754000;28400;Oceania
+Tonga;108000;747;Oceania
+Tuvalu;11400;26;Oceania
+Vanuatu;334500;12189;Oceania
+Albania;2800000;28748;Europa
+Alemania;83200000;357588;Europa
+Andorra;80000;468;Europa
+Austria;9000000;83879;Europa
+Bielorrusia;9400000;207600;Europa
+Belgica;11600000;30528;Europa
+Bosnia y Herzegovina;3200000;51197;Europa
+Bulgaria;6600000;110994;Europa
+Chipre;1200000;9251;Europa/Asia
+Ciudad del Vaticano;800;0;Europa
+Croacia;3900000;56594;Europa
+Dinamarca;5900000;43094;Europa
+Eslovaquia;5400000;49035;Europa
+Eslovenia;2100000;20273;Europa
+Espana;47800000;505990;Europa
+Estonia;1300000;45339;Europa
+Finlandia;5500000;338455;Europa
+Francia;64800000;643801;Europa
+Georgia;3700000;69700;Europa
+Grecia;10400000;131957;Europa
+Hungria;9600000;93028;Europa
+Irlanda;5100000;70273;Europa
+Islandia;375000;103000;Europa
+Italia;58800000;301340;Europa
+Kosovo;1800000;10887;Europa
+Letonia;1800000;64589;Europa
+Liechtenstein;39500;160;Europa
+Lituania;2700000;65300;Europa
+Luxemburgo;660000;2586;Europa
+Macedonia del Norte;2000000;25713;Europa
+Malta;535000;316;Europa
+Moldavia;2500000;33846;Europa
+Monaco;36000;2;Europa
+Montenegro;620000;13812;Europa
+Noruega;5400000;385207;Europa
+Paises Bajos;17800000;41543;Europa
+Polonia;36700000;312696;Europa
+Portugal;10200000;92212;Europa
+Reino Unido;67700000;243610;Europa
+Republica Checa;10500000;78867;Europa
+Rumania;19000000;238391;Europa
+Rusia;144400000;17098246;Europa
+San Marino;33600;61;Europa
+Serbia;7100000;88361;Europa
+Suecia;10600000;450295;Europa
+Suiza;8700000;41285;Europa
+Ucrania;37900000;603550;Europa
+Afganistan;42200000;652864;Asia
+Arabia Saudita;36900000;2149690;Asia
+Banglades;172900000;147570;Asia
+Barein;1400000;765;Asia
+Birmania;54600000;676578;Asia
+Brunei;453000;5765;Asia
+Butan;787000;38394;Asia
+Camboya;16900000;181035;Asia
+Catar;2700000;11586;Asia
+China;1425700000;9596961;Asia
+Corea del Norte;26100000;120538;Asia
+Corea del Sur;51700000;100210;Asia
+Emiratos Arabes Unidos;9500000;83600;Asia
+Filipinas;117300000;300000;Asia
+India;1428600000;3287590;Asia
+Indonesia;277500000;1904569;Asia
+Irak;45500000;438317;Asia
+Iran;89200000;1648195;Asia
+Israel;9100000;22072;Asia
+Japon;123200000;377975;Asia
+Jordania;11300000;89342;Asia
+Kuwait;4300000;17818;Asia
+Laos;7600000;236800;Asia
+Libano;5300000;10452;Asia
+Malasia;33900000;330803;Asia
+Maldivas;521000;300;Asia
+Mongolia;3400000;1564116;Asia
+Nepal;30800000;147516;Asia
+Oman;4600000;309500;Asia
+Pakistan;240400000;881913;Asia
+Palestina;5300000;6220;Asia
+Singapur;6000000;728;Asia
+Siria;23200000;185180;Asia
+Sri Lanka;21900000;65610;Asia
+Tailandia;71800000;513120;Asia
+Tayikistan;10100000;143100;Asia
+Timor Oriental;1300000;14874;Asia
+Turkmenistan;6500000;488100;Asia
+Turquia;85800000;783562;Asia
+Uzbekistan;36700000;448978;Asia
+Vietnam;98800000;331210;Asia
+Yemen;34400000;527968;Asia
+Kazajistan;19600000;2724900;Asia
+Azerbaiyan;10400000;86600;Asia
+Armenia;2700000;29743;Asia
+Argelia;45600000;2381741;Africa
+Angola;37800000;1246700;Africa
+Benin;13800000;114763;Africa
+Botsuana;2600000;581730;Africa
+Burkina Faso;23200000;274200;Africa
+Burundi;13200000;27834;Africa
+Cabo Verde;598000;4033;Africa
+Camerun;28600000;475442;Africa
+Chad;18200000;1284000;Africa
+Comoras;853000;2235;Africa
+Costa de Marfil;29300000;322463;Africa
+Yibuti;1100000;23200;Africa
+Egipto;112700000;1010408;Africa
+Eritrea;3700000;117600;Africa
+Etiopia;126500000;1104300;Africa
+Gabon;2400000;267667;Africa
+Gambia;2700000;11300;Africa
+Ghana;34100000;238533;Africa
+Guinea;14100000;245857;Africa
+Guinea-Bisau;2100000;36125;Africa
+Guinea Ecuatorial;1700000;28051;Africa
+Kenia;55100000;580367;Africa
+Lesoto;2300000;30355;Africa
+Liberia;5400000;111369;Africa
+Libia;6900000;1759540;Africa
+Madagascar;30300000;587041;Africa
+Malaui;20900000;118484;Africa
+Mali;23200000;1240192;Africa
+Marruecos;37800000;710850;Africa
+Mauricio;1300000;2040;Africa
+Mauritania;4800000;1030700;Africa
+Mozambique;33800000;799380;Africa
+Namibia;2600000;825615;Africa
+Niger;27200000;1267000;Africa
+Nigeria;223800000;923768;Africa
+Republica Centroafricana;5700000;622984;Africa
+Republica Democratica del Congo;102200000;2344858;Africa
+Republica del Congo;6100000;342000;Africa
+Ruanda;14000000;26338;Africa
+Santo Tome y Principe;231000;964;Africa
+Senegal;17700000;196712;Africa
+Seychelles;107000;455;Africa
+Sierra Leona;8700000;71740;Africa
+Somalia;18100000;637657;Africa
+Sudafrica;60400000;1221037;Africa
+Sudan;48100000;1886068;Africa
+Sudan del Sur;11000000;644329;Africa
+Suazilandia;1200000;17364;Africa
+Tanzania;67400000;947300;Africa
+Togo;9000000;56785;Africa
+Tunez;12400000;163610;Africa
+Uganda;48500000;241038;Africa
+Zambia;20500000;752618;Africa
+Zimbabue;16600000;390757;Africa
+Antigua y Barbuda;94000;442;America
+Argentina;46600000;2780400;America
+Bahamas;412000;13880;America
+Barbados;281000;430;America
+Belice;411000;22966;America
+Bolivia;12300000;1098581;America
+Brasil;216400000;8515767;America
+Canada;40700000;9984670;America
+Chile;19600000;756102;America
+Colombia;52000000;1141748;America
+Costa Rica;5200000;51100;America
+Cuba;11100000;109884;America
+Dominica;73000;751;America
+Ecuador;18100000;283561;America
+El Salvador;6300000;21041;America
+Estados Unidos;339900000;9833520;America
+Granada;126000;344;America
+Guatemala;17900000;108889;America
+Guyana;813000;214969;America
+Haiti;11700000;27750;America
+Honduras;10500000;112492;America
+Jamaica;2800000;10991;America
+Mexico;128400000;1964375;America
+Nicaragua;7000000;130373;America
+Panama;4400000;75417;America
+Paraguay;6800000;406752;America
+Peru;34300000;1285216;America
+Republica Dominicana;11300000;48671;America
+San Cristobal y Nieves;47000;261;America
+San Vicente y las Granadinas;103000;389;America
+Santa Lucia;180000;616;America
+Surinam;623000;163820;America
+Trinidad y Tobago;1500000;5131;America
+Uruguay;3400000;176215;America
+Venezuela;28800000;916445;America
