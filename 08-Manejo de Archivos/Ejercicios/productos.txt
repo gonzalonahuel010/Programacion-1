@@ -1,0 +1,4 @@
+melon,1000,20
+sandia,600,15
+uva,1500,30
+zanahoria,100,20
